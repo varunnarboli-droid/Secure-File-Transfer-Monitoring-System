@@ -1,0 +1,398 @@
+
+[2026-04-01 10:34:32.235824]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt
+----------------------------------
+
+[2026-04-01 10:34:46.413137]
+EVENT: moved
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt
+----------------------------------
+
+[2026-04-01 10:34:51.915124]
+EVENT: deleted
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\prabhas.txt
+----------------------------------
+
+[2026-04-01 10:40:02.727091]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New folder
+----------------------------------
+
+[2026-04-01 10:40:05.527502]
+EVENT: moved
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New folder
+----------------------------------
+
+[2026-04-01 10:40:05.536823]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 10:40:05.655457]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 10:41:07.060789]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\New Text Document.txt
+----------------------------------
+
+[2026-04-01 10:41:07.068456]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 10:41:09.603286]
+EVENT: moved
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\New Text Document.txt
+----------------------------------
+
+[2026-04-01 10:41:09.603958]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 10:44:04.712183]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\New Text Document.txt
+----------------------------------
+
+[2026-04-01 10:44:04.720049]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 10:44:07.243778]
+EVENT: moved
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\New Text Document.txt
+----------------------------------
+
+[2026-04-01 10:44:07.244538]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 10:49:00.301995]
+EVENT: deleted
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\secret.txt.txt
+----------------------------------
+
+[2026-04-01 10:49:00.321030]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 10:49:32.361817]
+EVENT: moved
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\data.txt.txt
+----------------------------------
+
+[2026-04-01 10:49:32.362645]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 11:02:28.711399]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\New Text Document.txt
+----------------------------------
+
+[2026-04-01 11:02:28.718272]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 11:02:44.444373]
+EVENT: moved
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\New Text Document.txt
+----------------------------------
+
+[2026-04-01 11:02:44.445107]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 11:10:38.070393]
+EVENT: deleted
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\secret.txt.txt
+----------------------------------
+
+[2026-04-01 11:10:38.091972]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 11:10:52.624726]
+EVENT: moved
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\data2.txt.txt
+----------------------------------
+
+[2026-04-01 11:10:52.625481]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 11:11:17.380480]
+EVENT: deleted
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\data4.txt.txt
+----------------------------------
+
+[2026-04-01 11:11:17.381190]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\data4.txt.txt
+----------------------------------
+
+[2026-04-01 11:11:17.382074]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive
+----------------------------------
+
+[2026-04-01 11:21:35.404755]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+----------------------------------
+
+[2026-04-01 11:21:37.928538]
+EVENT: moved
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: None
+----------------------------------
+
+[2026-04-01 11:21:59.290201]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\test1.txt.txt | HASH: 9c0a14b43b4e612c651635c294196faac48ab413a552d0c945b790f6fabeee8e
+----------------------------------
+
+[2026-04-01 11:22:05.011161]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\test1.txt.txt | HASH: 9c0a14b43b4e612c651635c294196faac48ab413a552d0c945b790f6fabeee8e
+----------------------------------
+
+[2026-04-01 11:22:19.806248]
+EVENT: deleted
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\test1.txt.txt | HASH: None
+----------------------------------
+
+[2026-04-01 11:22:48.349282]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+----------------------------------
+
+[2026-04-01 11:22:48.355997]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive | HASH: None
+----------------------------------
+
+[2026-04-01 11:23:18.020381]
+EVENT: deleted
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive\New Text Document.txt | HASH: None
+----------------------------------
+
+[2026-04-01 11:23:18.038944]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sensitive | HASH: None
+----------------------------------
+
+[2026-04-01 11:38:32.996392]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:51:35.375056]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New folder | HASH: None
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:51:39.685700]
+EVENT: deleted
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New folder | HASH: None
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:51:44.134266]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:51:52.666638]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\varun.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:51:57.677139]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:52:05.283099]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\kiran.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:52:11.212329]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:52:18.222184]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\varsha.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:52:23.363332]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: None
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:52:29.267989]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\vikas.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:52:35.702962]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:52:45.928095]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\anwar.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:52:51.135720]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:53:08.264799]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\vivek.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:53:16.928281]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:53:22.111873]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\raju.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:53:31.087274]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:53:39.788816]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\mani.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:53:50.228714]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:53:58.276678]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\shiv.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:54:02.981497]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:54:07.354651]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\sonu.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:54:26.006365]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:54:31.834820]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\priya.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:56:48.773442]
+EVENT: created
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:56:52.745312]
+EVENT: MOVED
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\New Text Document.txt -> C:\Users\HP\Downloads\SecureFileMonitor\test_folder\test1.txt.txt | HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:57:16.224842]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\test1.txt.txt | HASH: ecc894992d50ede0e6adb8e57143026fcc244cff6c41353febc4b03d54803442
+USER: HP
+PROCESS: python.exe
+----------------------------------
+
+[2026-04-01 11:58:31.733087]
+EVENT: modified
+PATH: C:\Users\HP\Downloads\SecureFileMonitor\test_folder\test1.txt.txt | HASH: 52fa51c591343a787bbec6f2cb390e824db0fb8b81e5db0170cf3d0fcb655463
+USER: HP
+PROCESS: python.exe
+----------------------------------
